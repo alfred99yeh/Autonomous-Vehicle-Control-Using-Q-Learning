@@ -29,3 +29,5 @@
    ```
 
 3. 模擬畫面將自動開啟，訓練並展示 Q-Learning 的成果。
+
+4. ![自走車模擬結果](https://github.com/alfred99yeh/Autonomous-Vehicle-Control-Using-Q-Learning/blob/main/images/%E8%87%AA%E8%B5%B0%E8%BB%8AQ-Learning%E6%A8%A1%E6%93%AC%E7%95%AB%E9%9D%A2.png?raw=true)
